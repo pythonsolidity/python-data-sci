@@ -1,0 +1,1 @@
+This is a line without price info. The price of Bitcoin is 60000. This is a line without price info. The price of Ethereum is 2000. This is a line without price info.
